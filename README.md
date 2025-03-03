@@ -12,5 +12,5 @@ Stage 2: Added checkboxes to include alphabets, numbers, and special symbols.
 How to Run the Program?
 Copy & paste the code into a Python file (password_generator.py).
 Run the script using:
-python password_generator.py
+python password.py
 The GUI window will open where you can enter password length & select options.
